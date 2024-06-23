@@ -6,8 +6,8 @@ This Python script scrapes book data from a fictional bookstore website and save
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/book-scraper.git
-   cd book-scraper
+   git clone https://github.com/AsaadAlmughrabi/401-Web-Scraping.git
+   cd 401-Web-Scraping
    ```
 
 2. Install dependencies:
