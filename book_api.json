@@ -1,0 +1,323 @@
+[
+  {
+    "category": "Travel",
+    "data": [
+      {
+        "title": "It's Only the Himalayas",
+        "rating": "Two",
+        "price": "£45.17",
+        "availability": "In stock"
+      },
+      {
+        "title": "Full Moon over Noahâs Ark: An Odyssey to Mount Ararat and Beyond",
+        "rating": "Four",
+        "price": "£49.43",
+        "availability": "In stock"
+      },
+      {
+        "title": "See America: A Celebration of Our National Parks & Treasured Sites",
+        "rating": "Three",
+        "price": "£48.87",
+        "availability": "In stock"
+      },
+      {
+        "title": "Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel",
+        "rating": "Two",
+        "price": "£36.94",
+        "availability": "In stock"
+      },
+      {
+        "title": "Under the Tuscan Sun",
+        "rating": "Three",
+        "price": "£37.33",
+        "availability": "In stock"
+      },
+      {
+        "title": "A Summer In Europe",
+        "rating": "Two",
+        "price": "£44.34",
+        "availability": "In stock"
+      },
+      {
+        "title": "The Great Railway Bazaar",
+        "rating": "One",
+        "price": "£30.54",
+        "availability": "In stock"
+      },
+      {
+        "title": "A Year in Provence (Provence #1)",
+        "rating": "Four",
+        "price": "£56.88",
+        "availability": "In stock"
+      },
+      {
+        "title": "The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)",
+        "rating": "One",
+        "price": "£23.21",
+        "availability": "In stock"
+      },
+      {
+        "title": "Neither Here nor There: Travels in Europe",
+        "rating": "Three",
+        "price": "£38.95",
+        "availability": "In stock"
+      },
+      {
+        "title": "1,000 Places to See Before You Die",
+        "rating": "Five",
+        "price": "£26.08",
+        "availability": "In stock"
+      }
+    ]
+  },
+  {
+    "category": "Mystery",
+    "data": [
+      {
+        "title": "Sharp Objects",
+        "rating": "Four",
+        "price": "£47.82",
+        "availability": "In stock"
+      },
+      {
+        "title": "In a Dark, Dark Wood",
+        "rating": "One",
+        "price": "£19.63",
+        "availability": "In stock"
+      },
+      {
+        "title": "The Past Never Ends",
+        "rating": "Four",
+        "price": "£56.50",
+        "availability": "In stock"
+      },
+      {
+        "title": "A Murder in Time",
+        "rating": "One",
+        "price": "£16.64",
+        "availability": "In stock"
+      },
+      {
+        "title": "The Murder of Roger Ackroyd (Hercule Poirot #4)",
+        "rating": "Four",
+        "price": "£44.10",
+        "availability": "In stock"
+      },
+      {
+        "title": "The Last Mile (Amos Decker #2)",
+        "rating": "Two",
+        "price": "£54.21",
+        "availability": "In stock"
+      },
+      {
+        "title": "That Darkness (Gardiner and Renner #1)",
+        "rating": "One",
+        "price": "£13.92",
+        "availability": "In stock"
+      },
+      {
+        "title": "Tastes Like Fear (DI Marnie Rome #3)",
+        "rating": "One",
+        "price": "£10.69",
+        "availability": "In stock"
+      },
+      {
+        "title": "A Time of Torment (Charlie Parker #14)",
+        "rating": "Five",
+        "price": "£48.35",
+        "availability": "In stock"
+      },
+      {
+        "title": "A Study in Scarlet (Sherlock Holmes #1)",
+        "rating": "Two",
+        "price": "£16.73",
+        "availability": "In stock"
+      },
+      {
+        "title": "Poisonous (Max Revere Novels #3)",
+        "rating": "Three",
+        "price": "£26.80",
+        "availability": "In stock"
+      },
+      {
+        "title": "Murder at the 42nd Street Library (Raymond Ambler #1)",
+        "rating": "Four",
+        "price": "£54.36",
+        "availability": "In stock"
+      },
+      {
+        "title": "Most Wanted",
+        "rating": "Three",
+        "price": "£35.28",
+        "availability": "In stock"
+      },
+      {
+        "title": "Hide Away (Eve Duncan #20)",
+        "rating": "One",
+        "price": "£11.84",
+        "availability": "In stock"
+      },
+      {
+        "title": "Boar Island (Anna Pigeon #19)",
+        "rating": "Three",
+        "price": "£59.48",
+        "availability": "In stock"
+      },
+      {
+        "title": "The Widow",
+        "rating": "Two",
+        "price": "£27.26",
+        "availability": "In stock"
+      },
+      {
+        "title": "Playing with Fire",
+        "rating": "Three",
+        "price": "£13.71",
+        "availability": "In stock"
+      },
+      {
+        "title": "What Happened on Beale Street (Secrets of the South Mysteries #2)",
+        "rating": "Five",
+        "price": "£25.37",
+        "availability": "In stock"
+      },
+      {
+        "title": "The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1)",
+        "rating": "Five",
+        "price": "£52.30",
+        "availability": "In stock"
+      },
+      {
+        "title": "Delivering the Truth (Quaker Midwife Mystery #1)",
+        "rating": "Four",
+        "price": "£20.89",
+        "availability": "In stock"
+      }
+    ]
+  },
+  {
+    "category": "Sequential Art",
+    "data": [
+      {
+        "title": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+        "rating": "Five",
+        "price": "£52.29",
+        "availability": "In stock"
+      },
+      {
+        "title": "Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)",
+        "rating": "One",
+        "price": "£16.28",
+        "availability": "In stock"
+      },
+      {
+        "title": "This One Summer",
+        "rating": "Four",
+        "price": "£19.49",
+        "availability": "In stock"
+      },
+      {
+        "title": "The Nameless City (The Nameless City #1)",
+        "rating": "Four",
+        "price": "£38.16",
+        "availability": "In stock"
+      },
+      {
+        "title": "Saga, Volume 5 (Saga (Collected Editions) #5)",
+        "rating": "Two",
+        "price": "£51.04",
+        "availability": "In stock"
+      },
+      {
+        "title": "Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",
+        "rating": "Three",
+        "price": "£50.40",
+        "availability": "In stock"
+      },
+      {
+        "title": "Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",
+        "rating": "Five",
+        "price": "£13.61",
+        "availability": "In stock"
+      },
+      {
+        "title": "Pop Gun War, Volume 1: Gift",
+        "rating": "One",
+        "price": "£18.97",
+        "availability": "In stock"
+      },
+      {
+        "title": "Patience",
+        "rating": "Three",
+        "price": "£10.16",
+        "availability": "In stock"
+      },
+      {
+        "title": "Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",
+        "rating": "Four",
+        "price": "£15.44",
+        "availability": "In stock"
+      },
+      {
+        "title": "orange: The Complete Collection 1 (orange: The Complete Collection #1)",
+        "rating": "One",
+        "price": "£48.41",
+        "availability": "In stock"
+      },
+      {
+        "title": "Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",
+        "rating": "Two",
+        "price": "£46.91",
+        "availability": "In stock"
+      },
+      {
+        "title": "Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",
+        "rating": "Three",
+        "price": "£45.61",
+        "availability": "In stock"
+      },
+      {
+        "title": "Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12)",
+        "rating": "Two",
+        "price": "£19.92",
+        "availability": "In stock"
+      },
+      {
+        "title": "I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",
+        "rating": "Two",
+        "price": "£29.17",
+        "availability": "In stock"
+      },
+      {
+        "title": "I am a Hero Omnibus Volume 1",
+        "rating": "Three",
+        "price": "£54.63",
+        "availability": "In stock"
+      },
+      {
+        "title": "Giant Days, Vol. 2 (Giant Days #5-8)",
+        "rating": "Two",
+        "price": "£22.11",
+        "availability": "In stock"
+      },
+      {
+        "title": "Danganronpa Volume 1",
+        "rating": "Four",
+        "price": "£51.99",
+        "availability": "In stock"
+      },
+      {
+        "title": "Codename Baboushka, Volume 1: The Conclave of Death",
+        "rating": "Four",
+        "price": "£36.72",
+        "availability": "In stock"
+      },
+      {
+        "title": "Camp Midnight",
+        "rating": "Four",
+        "price": "£17.08",
+        "availability": "In stock"
+      }
+    ]
+  }
+]
